@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <item_name>Buff Momo</item_name>
+        <price>90</price>
+    </item>
+    <item>
+        <item_name>Pizza</item_name>
+        <price>250</price>
+    </item>
+    <item>
+        <item_name>Bubble-tea</item_name>
+        <price>150</price>
+    </item>
+</menu>

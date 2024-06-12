@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student rollno="1">
+        <name>Safalta Shrestha</name>
+        <grade>12</grade>
+        <address>
+            Bhaktapur
+        </address>
+    </student>
+    <student rollno="2">
+        <name>Bisham Shrestha</name>
+        <grade>11</grade>
+        <address>
+            Thimi
+        </address>
+    </student>
+    <student rollno="3">
+        <name>Swosti Makaju</name>
+        <grade>12</grade>
+        <address>
+            Kathmandu
+        </address>
+    </student>
+</students>
